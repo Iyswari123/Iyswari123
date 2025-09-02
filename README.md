@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Iyswari A</h1>
 <h3 align="center">A passionate UI/UX Designer & frontend developer from Tuty</h3>
