@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyswari&label=Profile%20views&color=0e75b6&style=flat" alt="iyswari" /> </p>
 
-- 👯 I’m looking to collaborate on Graphic Designer
+🌸 UI/UX Designer | 🎨 Graphic Designer | 💻 Frontend Developer  
+
+- 👯 I’m looking to collaborate on Designing field
 
 - 👨‍💻 All of my projects are available at [https://iyswari123.github.io/Design-Iyshu/](https://iyswari123.github.io/Design-Iyshu/)
 
