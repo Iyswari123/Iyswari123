@@ -3,17 +3,17 @@
   <img src="gitbanner.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Iyswari A</h1>
-<h3 align="center">A passionate UI/UX Designer & frontend developer from Tuty</h3>
+<h3 align="center">A passionate Digital Marketer & UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyswari&label=Profile%20views&color=0e75b6&style=flat" alt="iyswari" /> </p>
 
-🌸 UI/UX Designer | 🎨 Graphic Designer | 💻 Frontend Developer  
+👨‍💻 Digital Marketer | 🌸 UI/UX Designer | 🎨 Graphic Designer | 💻 Frontend Developer  
 
 - 👯 I’m looking to collaborate on Designing field
 
 - 👨‍💻 All of my projects are available at [https://iyswari123.github.io/Design-Iyshu/](https://iyswari123.github.io/Design-Iyshu/)
 
-- 📫 How to reach me **iyswari1763@gmail.com**
+- 📫 How to reach me **iyswariamalraj2903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
