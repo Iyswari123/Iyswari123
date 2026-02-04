@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="gitbanner.png" alt="Banner" width="100%" />
+  <img src="Banner.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Iyswari A</h1>
 <h3 align="center">A passionate Digital Marketer & UI/UX Designer</h3>
